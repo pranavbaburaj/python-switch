@@ -5,7 +5,7 @@
 <hr>
 
 ### A simple python library for switch cases
-Docs - https://github.com/pranavbaburaj/python-switch/wiki/Docs
+Docs - https://github.com/pranavbaburaj/python-switch/wiki
 <br>
 PyPi - https://pypi.org/project/switchpy/
 
