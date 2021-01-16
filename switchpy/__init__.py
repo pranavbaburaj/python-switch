@@ -1,1 +1,2 @@
-from .switch import Switch 
+from .switch import Switch
+from .map import Maps 
