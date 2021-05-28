@@ -22,9 +22,13 @@
   "dependencies": {
     "@types/cors": "^2.8.10",
     "@types/express": "^4.17.12",
+    "@types/express-session": "^1.17.3",
     "@types/node": "^15.6.1",
+    "axios": "^0.21.1",
     "cors": "^2.8.5",
     "diskdb": "^0.1.17",
-    "express": "^4.17.1"
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2"
   }
 }
