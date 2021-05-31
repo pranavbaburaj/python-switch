@@ -1,5 +1,9 @@
 ## Env 
 
+```sh
+git clone https://github.com/pranavbaburaj/env.git $HOME/.vmodules
+```
+
 Create a `.env` file
 ```sh
 # This is an example comment
