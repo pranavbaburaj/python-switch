@@ -1,4 +1,4 @@
-## Env 
+## Env (The project is under an arichved state)
 
 ```sh
 git clone https://github.com/pranavbaburaj/env.git $HOME/.vmodules
